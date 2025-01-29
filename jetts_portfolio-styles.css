@@ -1,0 +1,20 @@
+body {
+    background-color: #b3abab;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+ol li a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
