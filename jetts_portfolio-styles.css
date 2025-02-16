@@ -25,7 +25,6 @@ nav ul li a {
     color: #000000;
 }
 
-
 img {
     display: block;
     margin: auto;
@@ -35,3 +34,6 @@ figure img {
     border-radius: 70%;
 }
 
+#contact-me{
+    text-decoration: none;
+}
